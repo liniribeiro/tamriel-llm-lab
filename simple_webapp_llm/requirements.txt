@@ -1,0 +1,8 @@
+langchain >= 0.1.12
+langchain-community >= 0.0.24
+langchain-huggingface ==0.1.2
+chromadb >= 0.4.22
+openai >= 1.14.3
+fastapi >= 0.110
+uvicorn
+sentence-transformers

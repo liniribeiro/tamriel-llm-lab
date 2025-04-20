@@ -1,0 +1,18 @@
+chroma:
+  db_name: knowledge_base
+  base_dir: ${hydra:runtime.cwd}
+  document_source_directory: './source_documents'
+  db_directory: '${chroma.base_dir}/src/chroma_db'
+
+  settings:
+    chroma_api_impl: 'chromadb.api.segment.SegmentAPI'
+    persist_directory: ${chroma.db_directory}
+    anonymized_telemetry: false
+    allow_reset: true
+    is_persistent: true
+
+my_model:
+  base_dir: ${hydra:runtime.cwd}
+  folder_path: '${chroma.base_dir}/src/models'
+  model_name: 'Meta-Llama-3-8B-Instruct.Q4_0.gguf'
+  allow_download: true

@@ -1,0 +1,9 @@
+
+defaults:
+  - model: default
+  - knowledge_base: default
+
+#hugging_face:
+#  hugging_face_model_id: some model name
+#  hugging_face_adapter_name: some adapter id
+#  hugging_face_dataset: some dataset source id
