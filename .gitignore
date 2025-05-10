@@ -1,3 +1,5 @@
 /.venv/
 /.idea/
 /simple_webapp_llm/chroma_store/
+/openai_experiments/.env
+/openai_experiments/.env

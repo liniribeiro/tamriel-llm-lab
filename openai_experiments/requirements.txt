@@ -1,0 +1,10 @@
+langchain
+openai
+weaviate-client
+python-dotenv
+langchain_openai
+langchain-huggingface ==0.1.2
+langchain-chroma
+chromadb >= 0.4.22
+unstructured[md]
+jq
