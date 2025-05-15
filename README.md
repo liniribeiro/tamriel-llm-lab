@@ -1,9 +1,6 @@
 
 # [Tamriel Wiki](https://github.com/liniribeiro/tamriel-llm-lab/wiki)
 
----
-
-# tamriel-llm-lab
 
 ## Exploration of the Tamriel LLM Lab
 
