@@ -1,7 +1,7 @@
 # tamriel-llm-lab
 
 
-Exploration of the Tamriel LLM Lab
+## Exploration of the Tamriel LLM Lab
 
 ### End-to-End LLM Pipeline
 
