@@ -15,7 +15,7 @@
 - Developing a simple FastAPI-based web application with endpoints for uploading documents and querying knowledge.
 - Utilizing HuggingFace embeddings and Chroma for document storage and retrieval.
 
-## Openai_experiments
+### Openai_experiments
 - 
 ---
 
