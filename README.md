@@ -1,5 +1,9 @@
-# tamriel-llm-lab
 
+# [Tamriel Wiki](https://github.com/liniribeiro/tamriel-llm-lab/wiki)
+
+---
+
+# tamriel-llm-lab
 
 ## Exploration of the Tamriel LLM Lab
 
@@ -14,6 +18,14 @@
 - Developing a simple FastAPI-based web application with endpoints for uploading documents and querying knowledge.
 - Utilizing HuggingFace embeddings and Chroma for document storage and retrieval.
 
+## Openai_experiments
+- 
 ---
 
-# [Tamriel Wiki](https://github.com/liniribeiro/tamriel-llm-lab/wiki)
+
+This project uses:
+- [Hydra](https://hydra.cc/): A framework for elegantly configuring complex applications.
+- [LangChain](https://python.langchain.com/docs/get_started/introduction.html): A framework for developing applications powered by language models.
+- [Chroma](https://www.trychroma.com/): An open-source embedding database for LLMs.
+- [HuggingFace](https://huggingface.co/): A platform for sharing and using machine learning models.
+- [GPT4ALL](https://docs.gpt4all.io/gpt4all_desktop/models.html)
